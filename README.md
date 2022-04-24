@@ -1,6 +1,6 @@
 # Livro de Receitas :woman_cook:
 
-Olá! Bem vindo ao livro de receitas. 
+Olá! Bem vindo ao meu livro de receitas 👋
 
-- Lasanha Bolonhesa
+- [Lasanha Bolonhesa](https://github.com/taiscolive/livro-receitas/blob/master/receitas/lasanha.md)
 - Mousse de Chocolate
